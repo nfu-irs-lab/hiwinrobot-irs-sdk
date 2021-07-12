@@ -4,6 +4,8 @@
 [![GitHub repo size](https://img.shields.io/github/repo-size/nfu-irs-lab/hiwinrobot-irs-hrtk)](https://github.com/nfu-irs-lab/hiwinrobot-irs-hrtk)
 [![GitHub issues](https://img.shields.io/github/issues/nfu-irs-lab/hiwinrobot-irs-hrtk.svg)](https://github.com/nfu-irs-lab/hiwinrobot-irs-hrtk/issues)
 
+本 repo 已經轉移到 [nfu-irs-lab/robotic-arm-sdk](https://github.com/nfu-irs-lab/robotic-arm-sdk)，此處將不再更新。
+
 # 各 Project 功能
 - NFUIRSL.HRTK：主要函式庫。
 - NFUIRSL.HRTK.Vision：視覺系統函式庫。
